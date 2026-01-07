@@ -1,4 +1,4 @@
-DeepSeek mHC – Simple Python Implementation
+DeepSeek mHC – Very Simple Python Implementation
 
 This repository contains a simple and readable Python implementation of the mHC component from DeepSeek, based directly on the original research paper.
 
