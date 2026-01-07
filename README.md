@@ -19,3 +19,4 @@ Reference:
 DeepSeek paper: https://arxiv.org/abs/2512.24880
 
 This project is intended for educational and research use.
+Explained: https://www.youtube.com/watch?v=zDdfvtou-ag
