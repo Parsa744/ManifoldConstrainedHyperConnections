@@ -12,7 +12,7 @@ Features
 
 - Easy to read and modify
 
-- Suitable for AI research, bioinformatics, and computational biology
+- Suitable for education
 
 Reference:
 
